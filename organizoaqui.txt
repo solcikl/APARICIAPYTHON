@@ -1,0 +1,63 @@
+4 páginas html, ok
+un formulario de contacto con validación de Javascript, ok
+un Iframe, ok
+
+íconos de FontAwesome o Flaticon y fuentes locales o de Google Fonts, ok
+
+
+y que tengas una página 
+completamente responsive con 3 puntos de corte para 3 tamaños de dispositivos distintos. ok 
+
+etiquetas semánticas para estructurar tu sitio,
+incorporar al menos una animación o transformación,
+y consumir una API Rest desde JavaScript.
+
+Diseño:
+ maquetación del sitio web, la alineación y márgenes entre los elementos, la tipografía seleccionada,
+ las fotografías y paleta de colores acordes a la temática del proyecto, el logo utilizado y los íconos
+ y favicon.
+
+
+1. Info
+2. Estructura
+3. Diseño
+
+1. Info
+*Paginas:
+1- Index - PRESENTACION - Portada (Foto, Menu, Quien soy, Servicio
+2. Quien soy (cv)
+3. Clases - Deporte y Servicio - Formulario de contacto
+4. Arte
+
+
+
+ <h3>¿Qué hacemos?</h3>
+            <p>Nos dedicamos a las guías de prácticas enriquecedoras para el espiritu, cuerpo y mente. Herramientas
+                multidisciplinares enriquecen nuestra lista de opciones a la hora de elegir una práctica. Nos nutrimos
+                con pasión y dedicaci´on al campo de la Fuerza (Calistenia, Entrenamiento Funcional, Musculación y
+                Gimnasia) sumada al área de gran fuente de observación interna: Flexibilidad y ADM (Amplitud de
+                Movimiento), Yoga Hatha y Meditación. </p>
+            <br>
+            <h3>¿Qué tipo de prácticas guían?</h3>
+            <p>Poder ser practicante o espectador.
+                Si elegis ser practicante porque sentis que estás preparado para llevar a tu cuerpo al siguiente nivel,
+                te invitamos a: Yoga+Flexibilidad, Introducción a la Calistenia (entrenamieto de Fuerza), Trekking+Yoga.
+                Si elegis ser espectador y queres volar tu imaginación por un rato, nuestra productora se dedica al
+                montaje de producciones artisticas, donde la fiesta, el show, la energia y la degustación gourmet de
+                tragos y preparador llevaran a viajar tus sentidos a un estado de placer asegurado. </p>
+            <br>
+            <h3>¿Quien Soy?</h3>
+            <p>Soy Sol, Instructora, Performer y estudiante eterna del movimiento. Pienso que la naturaleza (y el
+                cuerpo) ya tienen todas las respuestas a nuestras preguntas. Solo hace falta escuchar y observar más.
+                Conectarme con mi fuente de inspiración principal, que es mi cuerpo, me llevó a abrir caminos impensados
+                y enriquecedores para mi interior. Deseo que cada ser que atraviese una práctica conmigo, pueda llevarse
+                la experiencia de "sentir.se" por un ratito. Esos minutos de atención a tu interior, despiertan, y
+                marcan un camino diferente: elegido, presente, consciente. Verdadero.</p>
+            <p><a href="#entrenamiento"><span class="color" style="color:rgb(255, 0, 149);">Sol</span></a> <--
+                    REFERENCIAR, QUE LLEVE AL APARTADO ARTE</p>
+                    <br>
+
+
+
+
+
